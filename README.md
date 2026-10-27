@@ -96,7 +96,6 @@ The analysis can help businesses:
 - Findings may not represent every customer or real-world driving situation.
 
 ## Future Enhancements
-- Build a machine learning model to predict coupon acceptance.
 - Explore customer segments and their coupon preferences.
 - Evaluate model performance using suitable classification metrics.
 
